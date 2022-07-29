@@ -1,0 +1,38 @@
+#container {
+	margin: 200px auto;
+	width: 60%;
+	text-align: center;
+}
+h1 {
+	font-size: 50px;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	color: lightgreen;
+}
+.button {
+	background-color: lightgray;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	padding: 20px;
+	border-radius: 10px;
+	border: none;
+	width: 150px;
+}
+.button:hover {
+	background-color: gray;
+	color: white;
+}
+#start {
+	background-color: lightskyblue;
+}
+#start:hover {
+	background-color: blue;
+	color: white;
+}
+.counter {
+	margin-bottom: 20px;
+	font-size: 25px;
+}
+p {
+	display: inline-block;
+	margin-right: 20px;
+}
